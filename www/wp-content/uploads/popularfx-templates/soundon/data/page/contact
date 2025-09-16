@@ -1,0 +1,48 @@
+<!-- sp:pagelayer/pl_post_props {"post_title":"Contact","post_status":"publish","post_date":"2022-02-15 09:06:13","post_author":"1","post_name":"contact","featured_image":"","post_excerpt":"","post_password":"","comment_status":"","ping_status":"","post_sticky":"","post_parent":0,"menu_order":0,"post_category":"","post_tags":"","pagelayer-id":"6bf114"} /-->
+<!-- sp:pagelayer/pl_row {"stretch":"auto","col_gap":10,"width_content":"auto","row_height":"default","overlay_hover_delay":400,"row_shape_top_color":"#68dab6ff","row_shape_top_width":100,"row_shape_top_height":380,"row_shape_bottom_color":"","row_shape_bottom_width":100,"row_shape_bottom_height":300,"ele_bg_type":"","ele_bg_size":"contain","ele_bg_posx_custom":"700px","ele_bg_repeat":"no-repeat","overlay_gradient":["120","#000000ff","23","#00000000","45","#940b0b00","100"],"overlay_transperancy":0.5,"row_shape_type_bottom":"","row_shape_position":"bottom","row_shape_type_top":"","ele_bg_img":"","ele_bg_color":"#ebeef3ff","row_shape_bottom_flip":"true","ele_padding":["70px","0px","70px","0px"],"pagelayer-id":"f6k3384"} -->
+<!-- sp:pagelayer/pl_col {"widget_space":15,"overlay_hover_delay":400,"ele_bg_type":"color","pagelayer-id":"jpx3229"} -->
+<!-- sp:pagelayer/pl_inner_row {"stretch":"auto","col_gap":10,"width_content":"auto","row_height":"default","overlay_hover_delay":400,"row_shape_top_color":"#227bc3","row_shape_top_width":100,"row_shape_top_height":100,"row_shape_bottom_color":"#e44993","row_shape_bottom_width":100,"row_shape_bottom_height":100,"ele_padding":["0px","0px","30px","0px"],"pagelayer-id":"xsn4934"} -->
+<!-- sp:pagelayer/pl_inner_col {"widget_space":15,"overlay_hover_delay":400,"col":6,"pagelayer-id":"8nj8841"} -->
+<!-- sp:pagelayer/pl_heading {"text":"\u003ch2\u003eget in touch\u003c\/h2\u003e","heading_state":"normal","color":"","align":"left","pagelayer-id":"t8c4679"} --><h2>get in touch</h2><!-- /sp:pagelayer/pl_heading -->
+<!-- /sp:pagelayer/pl_inner_col -->
+<!-- sp:pagelayer/pl_inner_col {"widget_space":15,"overlay_hover_delay":400,"col":6,"content_pos":"center","pagelayer-id":"pqk824"} -->
+<!-- sp:pagelayer/pl_divider {"divider_style":"solid","divider_color":"#1f2732ff","divider_weight":3,"divider_widht":100,"divider_gap":25,"divider_alignment":"center","pagelayer-id":"gbe181"} /-->
+<!-- /sp:pagelayer/pl_inner_col -->
+<!-- /sp:pagelayer/pl_inner_row -->
+<!-- sp:pagelayer/pl_inner_row {"stretch":"auto","col_gap":10,"width_content":"auto","row_height":"default","overlay_hover_delay":400,"row_shape_top_color":"#227bc3","row_shape_top_width":100,"row_shape_top_height":100,"row_shape_bottom_color":"#e44993","row_shape_bottom_width":100,"row_shape_bottom_height":100,"pagelayer-id":"knb9747"} -->
+<!-- sp:pagelayer/pl_inner_col {"widget_space":15,"overlay_hover_delay":400,"col":"8","pagelayer-id":"fwv7924"} -->
+<!-- sp:pagelayer/pl_google_maps {"api_version":"","address":"New York, New York, USA","zoom":13,"height":431,"map_modes":"place","map_type":"roadmap","pagelayer-id":"vxn3193"} -->New York, New York, USA<!-- /sp:pagelayer/pl_google_maps -->
+<!-- /sp:pagelayer/pl_inner_col -->
+<!-- sp:pagelayer/pl_inner_col {"widget_space":15,"overlay_hover_delay":400,"col":"4","content_pos":"center","pagelayer-id":"fa83260"} -->
+<!-- sp:pagelayer/pl_contact {"form":"contact-form","name":"Contact Form","form_position":"default","space_label":["0",0,"10",0],"input_state":"normal","input_padding":["14","14"],"radio_padding":"10,10","field_hover_delay":400,"submit":"submit request","type":"pagelayer-btn-custom","size":"pagelayer-btn-custom","btn_hover_delay":400,"con_post_id":"194216","form_input_bg":"#00ccff00","input_height":null,"field_border_type":"solid","field_border_color":"#949da9ff","field_border_width":["1","1","1","1"],"btn_bg_color":"#ffffff09","btn_color":"#1f2732ff","btn_hover":"","btn_custom_size":["15","35"],"btn_border_type":"solid","btn_border_color":"#1f2732ff","btn_border_radius":["0","0","0","0"],"btn_border_width":["1","1","1","1"],"btn_typo":["Montserrat","15","","600","","","Solid","","Uppercase","",""],"btn_bg_color_hover":"","btn_spacing":["10",0,0,0],"ele_custom_pos":"true","ele_align":"50%","ele_height":"auto","ele_custom_width":"1000px","stretch":"true","contact_custom_templ":"true","from_email":"$email","cont_subject":"Contact Page Form","cont_header":"$name,$subject,$order,$email,$message","pagelayer-id":"htq1120"} -->
+<!-- sp:pagelayer/pl_contact_item {"label_name":"Name*","field_type":"text","values":"One\nTwo","field_name":"name","field_width":100,"space_between":",,10,","label_as_holder":"true","required":"true","pagelayer-id":"u1s2834"} /-->
+<!-- sp:pagelayer/pl_contact_item {"label_name":"Subject*","field_type":"text","values":"One\nTwo","field_name":"subject","field_width":100,"space_between":",,10,","label_as_holder":"true","required":"true","pagelayer-id":"szr4459"} /-->
+<!-- sp:pagelayer/pl_contact_item {"label_name":"Order No.*","field_type":"tel","values":"One\nTwo","field_name":"order","field_width":100,"space_between":",,10,","label_as_holder":"true","required":"true","pagelayer-id":"vzh7698"} /-->
+<!-- sp:pagelayer/pl_contact_item {"label_name":"Email-Address*","field_type":"email","values":"One\nTwo","field_name":"email","field_width":100,"space_between":",,10,","label_as_holder":"true","required":"true","pagelayer-id":"dzd324"} /-->
+<!-- sp:pagelayer/pl_contact_item {"label_name":"Message","field_type":"textarea","values":"One\nTwo","field_name":"message","field_width":100,"space_between":",,10,","label_as_holder":"true","textarea_rows":6,"pagelayer-id":"j8f4559"} /-->
+<!-- /sp:pagelayer/pl_contact -->
+<!-- /sp:pagelayer/pl_inner_col -->
+<!-- /sp:pagelayer/pl_inner_row -->
+<!-- /sp:pagelayer/pl_col -->
+<!-- /sp:pagelayer/pl_row -->
+<!-- sp:pagelayer/pl_row {"stretch":"auto","col_gap":10,"width_content":"auto","row_height":"default","overlay_hover_delay":400,"row_shape_top_color":"#68dab6ff","row_shape_top_width":100,"row_shape_top_height":380,"row_shape_bottom_color":"","row_shape_bottom_width":100,"row_shape_bottom_height":300,"ele_bg_type":"color","ele_bg_size":"contain","ele_bg_posx_custom":"700px","ele_bg_repeat":"no-repeat","overlay_gradient":["120","#000000ff","23","#00000000","45","#940b0b00","100"],"overlay_transperancy":0.5,"row_shape_type_bottom":"","row_shape_position":"bottom","row_shape_type_top":"","ele_bg_img":"","ele_bg_color":"#ebeef3ff","row_shape_bottom_flip":"true","ele_padding":["70px","0px","70px","0px"],"pagelayer-id":"ojq7743"} -->
+<!-- sp:pagelayer/pl_col {"widget_space":15,"overlay_hover_delay":400,"ele_bg_type":"color","pagelayer-id":"ns2500"} -->
+<!-- sp:pagelayer/pl_inner_row {"stretch":"auto","col_gap":10,"width_content":"auto","row_height":"default","overlay_hover_delay":400,"row_shape_top_color":"#227bc3","row_shape_top_width":100,"row_shape_top_height":100,"row_shape_bottom_color":"#e44993","row_shape_bottom_width":100,"row_shape_bottom_height":100,"ele_padding":["0px","0px","0px","0px"],"pagelayer-id":"wwv2236"} -->
+<!-- sp:pagelayer/pl_inner_col {"widget_space":15,"overlay_hover_delay":400,"col":4,"content_pos":"center","pagelayer-id":"mvc7086"} -->
+<!-- sp:pagelayer/pl_divider {"divider_style":"solid","divider_color":"#1f2732ff","divider_weight":3,"divider_widht":100,"divider_gap":25,"divider_alignment":"center","pagelayer-id":"0x74342"} /-->
+<!-- /sp:pagelayer/pl_inner_col -->
+<!-- sp:pagelayer/pl_inner_col {"widget_space":15,"overlay_hover_delay":400,"col":4,"content_pos":"center","pagelayer-id":"fvx9247"} -->
+<!-- sp:pagelayer/pl_heading {"text":"\u003ch2\u003efollow us \u003c\/h2\u003e","heading_state":"normal","color":"","align":"center","pagelayer-id":"2mg8981"} --><h2>follow us </h2><!-- /sp:pagelayer/pl_heading -->
+<!-- /sp:pagelayer/pl_inner_col -->
+<!-- sp:pagelayer/pl_inner_col {"widget_space":15,"overlay_hover_delay":400,"col":4,"content_pos":"center","pagelayer-id":"5fd678"} -->
+<!-- sp:pagelayer/pl_share_grp {"type":"icon","bg_shape":"pagelayer-social-shape-square","align":"center","vspace":4,"hspace":5,"height":50,"icon_size":25,"icon_space":15,"color_scheme":"","icon_color":"#ffffff","social_hover_delay":400,"name_typo":",15,,,,,solid,,,,","icon_bg_color":"#3f2966ff","icon_size_mobile":20,"icon_space_mobile":15,"pagelayer-id":"azq6029"} -->
+<!-- sp:pagelayer/pl_share {"icon":"fab fa-facebook-f","pagelayer-id":"bgp626"} /-->
+<!-- sp:pagelayer/pl_share {"icon":"fab fa-twitter","pagelayer-id":"1jb7717"} /-->
+<!-- sp:pagelayer/pl_share {"icon":"fab fa-google-plus-g","pagelayer-id":"mn19986"} /-->
+<!-- sp:pagelayer/pl_share {"icon":"fab fa-linkedin-in","pagelayer-id":"fgp3728"} /-->
+<!-- sp:pagelayer/pl_share {"icon":"fab fa-telegram-plane","pagelayer-id":"r2l8085"} /-->
+<!-- /sp:pagelayer/pl_share_grp -->
+<!-- /sp:pagelayer/pl_inner_col -->
+<!-- /sp:pagelayer/pl_inner_row -->
+<!-- /sp:pagelayer/pl_col -->
+<!-- /sp:pagelayer/pl_row -->
